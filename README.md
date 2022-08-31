@@ -10,4 +10,4 @@ Diagramas en repositorio
 
 
 ## Otro diagrama de prueba
-![Texto alternativo](/src/img/Salud%20SAC%20Login.png)
+![Texto alternativo](/src/img/SaludSACLogin.png)
